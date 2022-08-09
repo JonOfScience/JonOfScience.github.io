@@ -1,0 +1,111 @@
+.fit-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner-background {
+    background-image: url('images/network-g1a848be92_1920.jpg');
+    background-position: 50% 50%;
+    width: 100vw;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button-background {
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+.button-background:hover {
+    opacity: 0.7;
+}
+
+.btn-mask {
+    background: -webkit-linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0.4),
+        rgba(255, 255, 255, 1) 50%
+    )
+}
+
+.work-background {
+    background-image: url('images/laptop-g1670469e6_1920.jpg');
+}
+
+.projects-background {
+    background-image: url('images/code-g784873b7d_1920.jpg');
+}
+
+.education-background {
+    background-image: url('images/glasses-g4b9836e4f_1920.jpg');
+}
+
+.trainingAndSkills-background {
+    background-image: url('images/mark-g8924f2a1f_1920.jpg');
+}
+
+.gradient-button {
+    background: rgba(255, 255, 255, 0.8)
+}
+
+.gradient-custom {
+    background: -webkit-linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0.4),
+        rgba(255, 255, 255, 1) 50%
+    );
+}
+
+p{
+    font-size: larger;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+hr{
+    width: 80%;
+}
+
+#workExperience {
+    padding: 10px;
+}
+
+#projects{
+    padding: 10px;
+}
+
+#education{
+    padding: 10px;
+}
+
+#trainingAndSkills{
+    padding: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
