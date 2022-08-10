@@ -66,11 +66,7 @@ p{
     font-size: larger;
 }
 
-h2{
-    text-align: center;
-}
-
-h3{
+.align-header{
     text-align: center;
 }
 
